@@ -1,5 +1,5 @@
 /*******
-Irvin Gonzalez
+http://codeforces.com/problemset/problem/468/A
 24 Game
 
 Little X used to play a card game called "24 Game", but recently he has found it too easy. So he invented a new game.
